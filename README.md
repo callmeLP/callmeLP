@@ -1,24 +1,20 @@
-### Hi there 👋
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-```
-                                                                  
-LLLLLLLLLLL             PPPPPPPPPPPPPPPPP   
-L:::::::::L             P::::::::::::::::P  
-L:::::::::L             P::::::PPPPPP:::::P 
-LL:::::::LL             PP:::::P     P:::::P
-  L:::::L                 P::::P     P:::::P
-  L:::::L                 P::::P     P:::::P
-  L:::::L                 P::::PPPPPP:::::P 
-  L:::::L                 P:::::::::::::PP  
-  L:::::L                 P::::PPPPPPPPP    
-  L:::::L                 P::::P            
-  L:::::L                 P::::P            
-  L:::::L         LLLLLL  P::::P            
-LL:::::::LLLLLLLLL:::::LPP::::::PP          
-L::::::::::::::::::::::LP::::::::P          
-L::::::::::::::::::::::LP::::::::P          
-LLLLLLLLLLLLLLLLLLLLLLLLPPPPPPPPPP          
-```
+## Patrick Liu (Him/He) 🌻
+- 🔭 I’m a Student mechanical Engineer from GuiZhou College of Engineering
+- 👯 I write about technologies that interest me in [My Blog]().
+- 💬 Let's talk about Language Technologies.
+- 📫 **How to reach me**: Email:343786790@qq.com
+- ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
+
+<details>
+<summary>
+  <a href=""><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
+</summary>
+
+<br></details>
+<!-- footer --!>
+<img src="https://imgur.com/rilHVxA.png"/>
 
 
 <!--
