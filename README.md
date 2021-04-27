@@ -2,14 +2,14 @@
 
 ## Patrick Liu (Him/He) 🌻
 - 🔭 I’m a Student mechanical Engineer from GuiZhou College of Engineering
-- 👯 I write about technologies that interest me in [My Blog]().
+- 👯 I write about technologies that interest me in [My Blog](https://callmelp.github.io/).
 - 💬 Let's talk about Language Technologies.
 - 📫 **How to reach me**: Email:343786790@qq.com
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
 
 <details>
 <summary>
-  <a href=""><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
+  <a href="https://callmelp.github.io/"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
 </summary>
 
 <br></details>
