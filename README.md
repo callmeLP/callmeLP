@@ -5,11 +5,13 @@
 - 👯 I write about technologies that interest me in [My Blog](https://callmelp.github.io/).
 - 💬 Let's talk about Language Technologies.
 - 📫 **How to reach me**: Email:343786790@qq.com
-- ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
+- ⚡ Feel free to comment and point out errors, welcome to discuss.
+
+<br>
 
 <details>
-<summary>
-  <a href="https://callmelp.github.io/"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
+<summary><p align="center">
+  <a href="https://callmelp.github.io/"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a></p>
 </summary>
 
 <br></details>
