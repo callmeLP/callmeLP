@@ -2,7 +2,7 @@
 
 ## Patrick Liu (Him/He) 🌻
 - 🔭 I’m a Student mechanical Engineer from GuiZhou College of Engineering
-- 👯 I write about technologies that interest me in [My Blog](https://callmelp.github.io/).
+- 👯 I write about technologies that interest me in [My Blog](https://callmelp.online/).
 - 💬 Let's talk about Language Technologies.
 - 📫 **How to reach me**: Email:343786790@qq.com
 - ⚡ Feel free to comment and point out errors, welcome to discuss.
@@ -11,7 +11,7 @@
 
 <details>
 <summary><p align="center">
-  <a href="https://callmelp.github.io/"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a></p>
+  <a href="https://callmelp.online/"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a></p>
 </summary>
 
 <br></details>
